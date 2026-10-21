@@ -1,0 +1,12 @@
+{
+  "screenCount": 21,
+  "canvas": "1024x768",
+  "overflow": [],
+  "pageErrors": [],
+  "flows": [
+    "primary approval → timeout → confirmation → reversal",
+    "unselected lead task is not executed",
+    "disagreement updates approval scope",
+    "invalid stock count blocked; valid count saved"
+  ]
+}
